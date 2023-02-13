@@ -56,6 +56,11 @@ a {
   color: #fff;
   position: relative;
   margin-left: 35px;
+  transition: 0.3s;
+}
+
+.category-button a:hover {
+  color: #7497FB;
 }
 
 .category-button a:before {
