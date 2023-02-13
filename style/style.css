@@ -54,6 +54,16 @@ a {
 
 .category-button a {
   color: #fff;
+  position: relative;
+  margin-left: 35px;
+}
+
+.category-button a:before {
+  content: url("https://ministryofcredit.com/wp-content/uploads/2023/02/Mask-1.png");
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  right: 100%;
 }
 
 .category-name a {
