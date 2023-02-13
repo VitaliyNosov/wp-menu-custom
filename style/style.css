@@ -57,10 +57,14 @@ a {
   position: relative;
   margin-left: 35px;
   transition: 0.3s;
+  border-bottom: 1px #fff solid;
+  width: 8%;
+  line-height: 8px;
 }
 
 .category-button a:hover {
   color: #7497FB;
+  border-bottom: 1px #7497FB solid;
 }
 
 .category-button a:before {
